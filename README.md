@@ -1,7 +1,7 @@
 # BirdFluCases
 A Python script that uses the ETL process to show data regarding the bird flu cases in wild birds.  
 The steps in the script are as follows:   
-download the CSV file form gov.uk  
+download the CSV file from gov.uk  
 process and analyze the data   
 create the database and insert the data from the CSV file  
 query the database  
